@@ -1,0 +1,13 @@
+/home/dingyang/anaconda2/bin/python /home/dingyang/Documents/IRLS_complete/IRLS_train.py
+training...
+Iteration: 1, Loss: 22582.732685, lambda^2: 17986.376040
+Iteration: 2, Loss: 12414.370977, lambda^2: 2364.818934
+Iteration: 3, Loss: 10962.351287, lambda^2: 622.851943
+Iteration: 4, Loss: 10585.469730, lambda^2: 126.774527
+Iteration: 5, Loss: 10512.040813, lambda^2: 12.456086
+Iteration: 6, Loss: 10505.230773, lambda^2: 0.411899
+Iteration: 7, Loss: 10504.969423, lambda^2: 0.044017
+Iteration: 8, Loss: 10504.922501, lambda^2: 0.006612
+training done.
+Accuarcy in train set is: 0.150855
+Accuarcy in test set is: 0.150052
